@@ -6,7 +6,7 @@ const Career = ({ data }) => {
       <div className="container-fluid" id="coverimage">
         <a href="https://www.guvi.in/">
           <img
-            src="July-last-week-offer-cover-2048x453.webp"
+            src="https://cdn.discordapp.com/attachments/1018124413176135700/1209486337539842088/July-last-week-offer-cover-2048x453.webp?ex=65e718ee&is=65d4a3ee&hm=dd834784dd497840f16dc1a9cc2ab2725f7465ad673205e05ce2803f41dd1f5d&"
             width={"100%"}
             alt="image"
           ></img>
