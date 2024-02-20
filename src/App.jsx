@@ -79,7 +79,8 @@ function App() {
       description:
         "Frontend development is all about making websites that look good and work well for people",
       date: "15 February 2024",
-      image: "who_is_a_front_end_developer.png",
+      image:
+        "https://cdn.discordapp.com/attachments/1018124413176135700/1209475618547302510/who_is_a_front_end_developer.png?ex=65e70ef2&is=65d499f2&hm=038be81e74db315c10b5e886296a4679b9c49b3e67a855f4a7b79f063065e532&",
     },
     {
       head: "Full Stack Development",
